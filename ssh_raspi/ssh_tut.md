@@ -4,7 +4,7 @@
 ***
 &nbsp;
 
-## SSH c’est quoi ?
+## **SSH c’est quoi ?**
 
 Avant de voir comment contrôler la Raspberry Pi avec SSH, voyons exactement ce qu’est SSH.
 
