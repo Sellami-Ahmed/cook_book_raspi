@@ -124,6 +124,7 @@ Si vous utilisez un Mac, c’est la même chose, ouvrez votre terminal et utilis
 ### Utilisez SSH avec Windows et Putty
 
 Pour Windows, comme souvent, **il va falloir passer par l’interface graphique**. Vous allez donc devoir **lancer Putty et remplir les informations comme sur l’image ci-dessous**.
+
 ![image info](./pictures/putty.jpg)
 
 **Là aussi, remplacer « adresse_ip » par l’adresse IP ou l’URL du serveur**. Pour information, le numéro du port (22) est le port par défaut de SSH.
