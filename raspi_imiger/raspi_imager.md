@@ -8,7 +8,7 @@ _La **Fondation Raspberry Pi** améliore régulièrement le matériel des **Rasp
 &nbsp;
 
 &nbsp;
-![cardinal](./pictures/md-bfd602be71b2c1099b91877aed3b41f0.png)
+![image info](./pictures/md-bfd602be71b2c1099b91877aed3b41f0.png)
 
 &nbsp;
 ***
