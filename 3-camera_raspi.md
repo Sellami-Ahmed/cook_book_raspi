@@ -49,7 +49,7 @@ sudo raspi-config
 ```
 * Rendez-vous dans “Interface options” > “Legacy Camera”
 
-![image info](./pictures/287386264_334147658723007_2872349656411536222_n.png)
+* ![image info](./pictures/287386264_334147658723007_2872349656411536222_n.png)
 
 * “Would you like to rnable legacy camera support?”
 Yes!
@@ -62,7 +62,7 @@ Yes!
 ```bash
 sudo nano /boot/config.txt
 ```
-![image info](./pictures/287329394_5171205129623087_6710763010915793580_n.png)
+* ![image info](./pictures/287329394_5171205129623087_6710763010915793580_n.png)
 * Ajoutez au début du fichier :
 ```bash
 camera_auto_detect=1
