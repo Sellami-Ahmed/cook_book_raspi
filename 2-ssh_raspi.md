@@ -160,6 +160,7 @@ vncserver
 Cela va générer une canal pour l'utilisée sur VNC Viewer.
 
 ![image info](./pictures/vncserver-started.webp)
+
  Maintenant, copier le canal généré (dans mon cas c'est raspberrypi:2 ou 192.168.0.109:2).
 
 ### Lancez VNC Viewer
