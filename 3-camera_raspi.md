@@ -32,7 +32,7 @@ C’est de toute façon le seul ou vous pourrez brancher le câble, et il est é
 * **Branchez le câble et poussez maintenant le plastique noir pour maintenir le câble en place**.
 * Attention à bien respecter le sens du câble (les connecteurs du côté du port HDMI)
 
-*![image info](./pictures/camera-cable.webp)
+* ![image info](./pictures/camera-cable.webp)
 * Démarrez le Raspberry Pi
 
 &nbsp;
