@@ -48,7 +48,9 @@ En effet, le port est désactivé par défaut :
 sudo raspi-config
 ```
 * Rendez-vous dans “Interface options” > “Legacy Camera”
+
 ![image info](./pictures/287386264_334147658723007_2872349656411536222_n.png)
+
 * “Would you like to rnable legacy camera support?”
 Yes!
 * Quittez raspi-config et redémarrez le Raspberry Pi
