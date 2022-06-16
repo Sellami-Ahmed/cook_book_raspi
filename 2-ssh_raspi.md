@@ -151,7 +151,7 @@ Téléchargez le visualiseur VNC à partir du site Web de RealVNC.
 
 ### Ovrir une canal vncserver depuis votre raspberrypi
 
-Utilisez le code suivant pour ouvrire une canal :
+Utilisez le code suivant pour ouvrir une canal :
 
 ```bash
 vncserver
