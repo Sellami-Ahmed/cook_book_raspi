@@ -26,9 +26,9 @@ sudo apt-get install hostapd bridge-utils
 
 &nbsp;
 
-_nsuite, nous devons empêcher notre interface Ethernet et notre interface WiFi de se voir attribuer une adresse IP. En effet, le pont agira comme une interface réseau qui a sa propre adresse IP et gérera les connexions via Ethernet et WiFi.
+Ensuite, nous devons empêcher notre interface Ethernet et notre interface WiFi de se voir attribuer une adresse IP. En effet, le pont agira comme une interface réseau qui a sa propre adresse IP et gérera les connexions via Ethernet et WiFi.
 
-Vous devrez connaître le nom de ces interfaces, en tapant la commande suivante:_
+Vous devrez connaître le nom de ces interfaces, en tapant la commande suivante:
 &nbsp;
 ```bash
 ifconfig
