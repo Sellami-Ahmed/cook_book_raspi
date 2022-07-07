@@ -86,7 +86,7 @@ par exemple :
 ```bash
 */20 10-15 * * * sudo python /home/pi/Desktop/autoRun.py
 ```
-Dans cette exemple le s'éxecute chaque 20 mintes du 10 AM à 3 PM.
+Dans cette exemple le code s'éxecute chaque 20 mintes du 10 AM à 3 PM.
 
 Pour voir comment régler le temp du fonctionnement du code à votre choix  [voir ce lien](https://www.geeksforgeeks.org/how-to-schedule-python-scripts-as-cron-jobs-with-crontab/).
 
